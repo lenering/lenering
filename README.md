@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lenering
+- 👋 Hi, I’m @lenering (Lene Ring Madsen)
 - 👀 I’m interested in endocrinology, diabetes, bariatric surgery, pregnancies, and coffee
 - 🌱 I’m currently learning R and lots about being a teenage-mum
 - 💞️ I’m looking to collaborate on taming data on fetal and child growth
